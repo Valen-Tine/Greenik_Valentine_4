@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.exe
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.deps.json
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.runtimeconfig.json
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.dll
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\bin\Debug\netcoreapp3.1\ProgaLaba4.pdb
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\obj\Debug\netcoreapp3.1\ProgaLaba4.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\obj\Debug\netcoreapp3.1\ProgaLaba4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\obj\Debug\netcoreapp3.1\ProgaLaba4.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\obj\Debug\netcoreapp3.1\ProgaLaba4.dll
+C:\Users\Lenovo\source\repos\ProgaLaba4\ProgaLaba4\obj\Debug\netcoreapp3.1\ProgaLaba4.pdb
